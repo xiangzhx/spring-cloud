@@ -19,7 +19,6 @@ public class EurekaClientApplication {
 	}
 
 	public static void main(String[] args) {
-		//SpringApplication.run(EurekaClientApplication.class, args);
 		new SpringApplicationBuilder(EurekaClientApplication.class).web(true).run(args);
 	}
 }
