@@ -1,0 +1,13 @@
+server:
+  port: 7070
+spring:
+  application:
+    name: server-01
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7070/eureka/
+  instance:
+    metadata-map:
+      instancedId: ${spring.application.name}:${spring.application.instance_id:${random.value}}
+
