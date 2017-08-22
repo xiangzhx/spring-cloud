@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka/eureka-client/eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix/hystrix.iml" filepath="$PROJECT_DIR$/hystrix/hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/server/server.iml" filepath="$PROJECT_DIR$/config/server/server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud.iml" filepath="$PROJECT_DIR$/spring-cloud.iml" />
     </modules>
