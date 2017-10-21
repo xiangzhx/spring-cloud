@@ -13,6 +13,7 @@
         <module name="eureka-server" />
         <module name="hystrix" />
         <module name="server" />
+        <module name="turbine" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
@@ -24,6 +25,7 @@
       <module name="hystrix" target="1.8" />
       <module name="server" target="1.7" />
       <module name="spring-cloud" target="1.7" />
+      <module name="turbine" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
